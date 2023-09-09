@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+    display: grid;
+}
+
+.content {
+    /* text-align: center; */
+    /* display: flex; */
+    /* justify-content: center; */
+    /* align-items: center; */
+
+    margin: auto;
+}
+
+td, th{
+    padding:10px;
+}

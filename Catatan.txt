@@ -1,0 +1,29 @@
+- install Python
+- install virtualenv
+- create dir project 
+- create venv
+- install packages
+
+
+1. Program hello world
+2. Templateing use 
+render_template => using html file
+base template
+{% block head %} {% endblock %}
+{% %} => untuk if else, loop statement
+{{ }} => untuk sesuatu yang ingin kamu "print" result as a string
+
+menurutku fungsinya untuk memisahkan content dengan struktur code html
+
+3. Database
+import sqlalchemy
+configuration
+	- uri :: /// -> relative path
+		 //// -> absolute path
+
+
+
+[] konsep class dan object 
+[] python code
+
+
