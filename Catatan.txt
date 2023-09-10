@@ -16,14 +16,39 @@ base template
 menurutku fungsinya untuk memisahkan content dengan struktur code html
 
 3. Database
-import sqlalchemy
+install sqlalchemy in global var
 configuration
 	- uri :: /// -> relative path
 		 //// -> absolute path
 
 
+create DB :: db.create_all()
+create data :: db.session.add()
+delete data
+update data
+read data
+
+db.session.commit() (untuk penetapan seluruh perubahan pada db)
+
+4. Routing 
+Method GET dan POST
+
+if: else:
+for X in Xs:
+try: expect:
+
+Pembuatan req python
+install gunicorn
+pip3 freeze > requirements.txt
+
+Deployment heroku
+ - commit git
+ - heroku ClI 
+ - Procfile
 
 [] konsep class dan object 
 [] python code
+
+
 
 
